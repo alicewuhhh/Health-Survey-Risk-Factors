@@ -1,6 +1,6 @@
 # Health-Survey-Risk-Factors
 Our class project on evaluating a health survey dataset from kaggle. We'll try EDA, feature selection, perform +evaluate different ML models, and visualize results. 
-Dataset: Behavioral Risk Factor Surveillance System Analysis (https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
+Dataset: Behavioral Risk Factor Surveillance System Analysis in 2013 (https://www.kaggle.com/datasets/lplenka/brfss-data)
 
 **Main Idea**: The Behavioral Risk Factor Surveillance System is health-related telephone surveys collected from U.S. residents regarding their health-related risk behaviours, chronic health conditions, and use of preventive services. 
 
